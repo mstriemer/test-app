@@ -1,0 +1,13 @@
+{
+    "name": Test App",
+    "description": "My test app",
+    "launch_path": "/",
+    "icons": {
+        "128": "/img/icon-128.png"
+    },
+    "developer": {
+        "name": "Mark Striemer",
+        "url": "http://mstriemer.github.io/test-app"
+    },
+    "default_locale": "en"
+}
