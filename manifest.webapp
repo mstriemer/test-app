@@ -1,7 +1,7 @@
 {
     "name": "Test App",
     "description": "My test app",
-    "launch_path": "/",
+    "launch_path": "/test-app/",
     "icons": {
         "128": "/test-app/img/icon-128.png"
     },
